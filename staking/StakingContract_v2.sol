@@ -1,0 +1,1 @@
+// Solidity staking contract placeholder
